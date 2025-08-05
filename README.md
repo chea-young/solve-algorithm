@@ -44,3 +44,27 @@
   g++ -o 5073 5073.cpp
   PS C:\Users\user\Documents\00_cheayoung.lee\100_etc\solve_Algorithm\백준\c++> ./5073
   ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
+<!---LeetCode Topics End-->
