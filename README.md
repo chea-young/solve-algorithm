@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chea-young/solve-algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
