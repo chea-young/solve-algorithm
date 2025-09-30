@@ -16,10 +16,6 @@ class Solution {
             nums = newNums;
         }
 
-        if (nums.length == 1) {
-            return nums[0];
-        } else {
-            return 0;
-        }
+        return nums[0];
     }
 }
