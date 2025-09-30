@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/chea-young/solve-algorithm/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chea-young/solve-algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/chea-young/solve-algorithm/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/chea-young/solve-algorithm/tree/master/0498-diagonal-traverse) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
