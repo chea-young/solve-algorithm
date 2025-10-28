@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/chea-young/solve-algorithm/tree/master/0498-diagonal-traverse) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/chea-young/solve-algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/chea-young/solve-algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/chea-young/solve-algorithm/tree/master/3790-fruits-into-baskets-ii) |
@@ -76,12 +77,18 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/chea-young/solve-algorithm/tree/master/0498-diagonal-traverse) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/chea-young/solve-algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
 | ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/chea-young/solve-algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/chea-young/solve-algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
+## String
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/chea-young/solve-algorithm/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
