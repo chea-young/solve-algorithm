@@ -35,12 +35,9 @@ class Solution {
                 pluxRow++;
             }
             
+            int now = countSecurityDevices(bank[i]);  
             // 레이저 수 더하기
-            for (int j=0; j < m; j++) {
-                if (bank[i].charAt(j) == '1') {
-                    answer += nextSecurityDeviceCnt;
-                }
-            }
+            answer += nextSecurityDeviceCnt * now;
 
             // 그 다음 보안 장비가 있는 열도 이동시키기
             i += pluxRow;
