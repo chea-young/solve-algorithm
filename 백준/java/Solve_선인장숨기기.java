@@ -16,6 +16,11 @@ public class Solve_선인장숨기기 {
 		System.out.println("Test 5 - Expected: [0, 0], Result: [" + a5[0] + ", " + a5[1] + "]");
 		int[] a6 = solution.solution(4, 4, 3, 1, new int[][]{{2,0},{1,3},{3,2},{0,1}});
 		System.out.println("Test 6 - Expected: [0, 2], Result: [" + a6[0] + ", " + a6[1] + "]");
+		/**
+		 * as-is: 모든 위치(m×n)마다 선인장 영역(h×w)을 매번 직접 탐색. 위치가 바뀌어도 겹치는 칸 재계산
+		 * to-be: 행/열 방향으로 각 1회씩, 슬라이딩 윈도우로 미리 계산 후 O(1) 조회. 각 칸을 딱 한 번씩만 처리
+		 * -> 슬라이딩 윈도우는 겹치는 부분을 재활용해서 개선하기 때문에 새로 들어오는 칸 하나만 처리하면 되서 계산하는 횟수가 줄어듬.
+		 */
 	}
 
 	static class Solution {
